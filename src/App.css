@@ -1,0 +1,12 @@
+    @font-face {
+    font-family: 'Astronaut III Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Astronaut III Regular'), url('ASTRII__.woff') format('woff');
+    }
+
+    h1 {
+        font-family: 'Astronaut III Regular';
+        font-weight: 100;
+        color: #444444;
+    }
